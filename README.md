@@ -33,15 +33,25 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 # Latest Certificates
 
 ![](./Files/titulo.png)
+
 ![](./files/SnomedCT.png)
+
 ![](./files/DoraSistemas.png)
+
 ![](./files/dotNet.png)
+
 ![](./files/EFyLinq.png)
+
 ![](./files/Javascript.png)
+
 ![](./files/MVC.png)
+
 ![](./files/webapic.png)
+
 ![](./files/R.jpg)
+
 ![](./files/SvelteJS.png)
+
 ![](./files/sql.png)
 
 ![](./files/html_css.png)
