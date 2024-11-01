@@ -21,7 +21,6 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 
 |Job| Name Business | Years |
 |:---:|:---:|:----:|
-|
 |software developer  | Self Developer |11/22 - today Integral Software (07/24) Be The Driver |
 |software developer  | Integral Software |2020- October 2022 |
 
@@ -33,7 +32,8 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 
 # Latest Certificates
 
-![](./files/titulo.png)
+![](./Files/titulo.png)
+
 ![](./files/SnomedCT.png)
 ![](./files/DoraSistemas.png)
 ![](./files/dotNet.png)
