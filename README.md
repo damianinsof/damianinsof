@@ -1,9 +1,11 @@
 ## Damián Jimenez
 #### Paraná - Entre Rios - Argentina
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
+Certificados: https://github.com/damianinsof/damianinsof/tree/main/Files
 Email: Sabypna@gmail.com
  #### Introduction
  I finished my degree which I had abandoned when I turned 50. I really enjoy my current occupation which consists of developing new products, migrations and fixes of existing software.
+
  #### Presentación
 Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente disfruto de mi ocupacion actual. Que consiste en desarrollo de nuevos productos, migraciones y arreglos de software existente.
 
@@ -32,7 +34,17 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 
 # Latest Certificates
 
-![](./Files/titulo.png) ![](./files/SnomedCT.png) ![](./files/DoraSistemas.png)![](./files/dotNet.png)![](./files/EFyLinq.png)
+![](./Files/titulo.png) 
+
+![](./files/data_mx.bmp)
+
+![](./files/SnomedCT.png) 
+
+![](./files/DoraSistemas.png)
+
+![](./files/dotNet.png)
+
+![](./files/EFyLinq.png)
 
 ![](./files/Javascript.png)
 
@@ -55,8 +67,6 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 ![](./files/Powerbi.jpg)
 
 ![](./files/fullstack.png)
-
-![](./files/data_mx.bmp)
 
 ![](./files/cobol-silvertech.png)
 
