@@ -3,6 +3,7 @@
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
 Certificados: https://github.com/damianinsof/damianinsof/tree/main/Files
 Email: Sabypna@gmail.com
+
  #### Introduction
  I finished my degree which I had abandoned when I turned 50. I really enjoy my current occupation which consists of developing new products, migrations and fixes of existing software.
 
