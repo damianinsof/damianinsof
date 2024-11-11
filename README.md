@@ -1,7 +1,7 @@
 ## Damián Jimenez
 #### Paraná - Entre Rios - Argentina
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
-Certificados: https://github.com/damianinsof/damianinsof/tree/main/Files
+Certificados: 
 Email: Sabypna@gmail.com
  #### Introduction
  I finished my degree which I had abandoned when I turned 50. I really enjoy my current occupation which consists of developing new products, migrations and fixes of existing software.
@@ -35,8 +35,6 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 # Latest Certificates
 
 ![](./Files/titulo.png) 
-
-![](./files/data_mx.bmp)
 
 ![](./files/SnomedCT.png) 
 
